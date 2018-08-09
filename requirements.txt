@@ -1,0 +1,5 @@
+flask
+tensorflow==1.4
+numpy
+os
+requests
